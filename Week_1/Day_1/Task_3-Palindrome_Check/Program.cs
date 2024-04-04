@@ -4,7 +4,7 @@ public class App
 {
     public static void Main(string[] args){
         // TESTS
-        List<string> Tests = ["", "abcba", "asb", "    aba  ?", "????", "b b b b", "a**kdmfd/"];
+        List<string> Tests = ["      ", "1234321", "a1a2a1", "", "AbCdE", "ABA", "abcba", "asb", "    aba  ?", "????", "b b b b", "a**kdmfd/"];
 
         foreach(string test in Tests){
             Console.WriteLine(PalindromeCheck(test));
