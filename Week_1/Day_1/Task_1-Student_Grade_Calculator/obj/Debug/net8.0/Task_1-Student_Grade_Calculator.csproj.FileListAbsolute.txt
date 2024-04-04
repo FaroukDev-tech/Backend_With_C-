@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\bin\Debug\net8.0\Task_1-Student_Grade_Calculator.exe
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\bin\Debug\net8.0\Task_1-Student_Grade_Calculator.deps.json
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\bin\Debug\net8.0\Task_1-Student_Grade_Calculator.runtimeconfig.json
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\bin\Debug\net8.0\Task_1-Student_Grade_Calculator.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\bin\Debug\net8.0\Task_1-Student_Grade_Calculator.pdb
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\Task_1-Student_Grade_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\Task_1-Student_Grade_Calculator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\Task_1-Student_Grade_Calculator.AssemblyInfo.cs
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\Task_1-Student_Grade_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\Task_1-Student_Grade_Calculator.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\refint\Task_1-Student_Grade_Calculator.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\Task_1-Student_Grade_Calculator.pdb
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\Task_1-Student_Grade_Calculator.genruntimeconfig.cache
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\ref\Task_1-Student_Grade_Calculator.dll
