@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\bin\Debug\net8.0\Task_3-Palindrome_Check.exe
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\bin\Debug\net8.0\Task_3-Palindrome_Check.deps.json
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\bin\Debug\net8.0\Task_3-Palindrome_Check.runtimeconfig.json
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\bin\Debug\net8.0\Task_3-Palindrome_Check.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\bin\Debug\net8.0\Task_3-Palindrome_Check.pdb
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\obj\Debug\net8.0\Task_3-Palindrome_Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\obj\Debug\net8.0\Task_3-Palindrome_Check.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\obj\Debug\net8.0\Task_3-Palindrome_Check.AssemblyInfo.cs
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\obj\Debug\net8.0\Task_3-Palindrome_Check.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\obj\Debug\net8.0\Task_3-Palindrome_Check.sourcelink.json
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\obj\Debug\net8.0\Task_3-Palindrome_Check.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\obj\Debug\net8.0\refint\Task_3-Palindrome_Check.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\obj\Debug\net8.0\Task_3-Palindrome_Check.pdb
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\obj\Debug\net8.0\Task_3-Palindrome_Check.genruntimeconfig.cache
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_3-Palindrome_Check\obj\Debug\net8.0\ref\Task_3-Palindrome_Check.dll
