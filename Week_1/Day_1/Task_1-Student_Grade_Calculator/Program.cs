@@ -1,4 +1,4 @@
-﻿// TASK 1 - STUDENT GRADE CALCULATOR
+﻿/* TASK 1 - STUDENT GRADE CALCULATOR */
 // DATE: 03/04/24
 
 using System;
@@ -24,10 +24,10 @@ namespace Task_1{
 
                 do {
                     subjectName = ReadString($"Enter subject #{i}: ");
-                    subjectGrade = ReadNumber($"Enter marks(grade) for subject #{i} - {subjectName}: ");
+                    subjectGrade = ReadNumber($"Enter marks(grade) for subject #{i} between 0 and 100: ");
 
                     if (UserRecords.ContainsKey(subjectName))
-                        Console.WriteLine("Subject already exists in database, please provide new info");
+                        Console.WriteLine("\nSubject already exists in database! Please provide new info\n");
                 } while (UserRecords.ContainsKey(subjectName));
 
                 UserRecords[subjectName] = subjectGrade;
@@ -38,7 +38,7 @@ namespace Task_1{
             Console.WriteLine($"Please wait while we process and evaluate your performance...\n");
             Thread.Sleep(2000);
             Console.WriteLine($"Name of student: {UserName}");
-            Console.WriteLine("---------------------------------------");
+            Console.WriteLine("----------------------------------------");
             
             foreach (string key in UserRecords.Keys){
                 Thread.Sleep(1000);
@@ -52,11 +52,16 @@ namespace Task_1{
         public static int ReadNumber(string msg){
             int res = 0;
             string val = "";
+            bool start = false;
 
             do{
+                if (start)
+                    Console.WriteLine("\nPlease enter a number between 0 and 100 inclusive!\n");
+
                 Console.Write(msg);
                 val = Console.ReadLine();
-            } while (!int.TryParse(val, out res));
+                start = true;
+           } while (!int.TryParse(val, out res) || res<0 || res>100);
 
             return res;
         }

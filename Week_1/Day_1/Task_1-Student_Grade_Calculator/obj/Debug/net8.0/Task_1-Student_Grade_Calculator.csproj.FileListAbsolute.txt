@@ -12,3 +12,4 @@ C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Cal
 C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\Task_1-Student_Grade_Calculator.pdb
 C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\Task_1-Student_Grade_Calculator.genruntimeconfig.cache
 C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\ref\Task_1-Student_Grade_Calculator.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_1\Task_1-Student_Grade_Calculator\obj\Debug\net8.0\Task_1-Student_Grade_Calculator.sourcelink.json
