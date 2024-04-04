@@ -17,4 +17,4 @@ The script is implemented in C# and follows a straightforward logic:
 5. Displays the average grade to the user.
 
 ## Demo
-![Student Grade Calculator](demo.png)
+![Student Grade Calculator](demo.PNG)
