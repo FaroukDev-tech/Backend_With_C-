@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_2-Word_Frequency_Count")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+804484f35a48c3a7e26cfa8543baff403f619d8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+562e564ff9214873342c57fc6936695868bab2f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_2-Word_Frequency_Count")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_2-Word_Frequency_Count")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
