@@ -21,7 +21,8 @@ namespace Task_1{
             for (int i=1; i<=NumberOfSubjects; i++){
                 string subjectName = "";
                 int subjectGrade = 0;
-
+                Console.WriteLine();
+                
                 do {
                     subjectName = ReadString($"Enter subject #{i}: ");
                     subjectGrade = ReadNumber($"Enter marks(grade) for subject #{i} between 0 and 100: ");
