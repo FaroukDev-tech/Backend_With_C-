@@ -3,12 +3,13 @@ using System;
 namespace task_shapes{
     // Implementing abstract class
     public abstract class Shape (string name){
-        // Accessor Method
+        // Accessor Method & Property to initialise, get or set property
         public string? Name {get; set;} = name;
         // Virtual method to be overridden by children classes
         public virtual double CalculateArea() => 0;
     }
 
+    // Inheriting from abstract / parent class and calling constructor of parent
     public class Circle(string name, double radius) : Shape(name){
         public double Radius {get; set;} = radius;
 

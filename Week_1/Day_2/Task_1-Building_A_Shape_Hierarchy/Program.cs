@@ -10,7 +10,7 @@ namespace Task_2{
             Triangle triangle  = new ("triangle", 10, 5);
 
             // Executing PrintShapeArea on initialized objects
-            PrintShapeArea(circle);
+            PrintShapeArea(circle); // Output: Name of shape is circle. Its area is 314.1592653589793 
             PrintShapeArea(rectangle);
             PrintShapeArea(triangle);
         }
