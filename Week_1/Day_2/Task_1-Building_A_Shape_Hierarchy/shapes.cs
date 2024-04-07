@@ -1,14 +1,18 @@
 using System;
 
 namespace task_shapes{
+    // Implementing abstract class
     public abstract class Shape (string name){
+        // Accessor Method
         public string? Name {get; set;} = name;
+        // Virtual method to be overridden by children classes
         public virtual double CalculateArea() => 0;
     }
 
     public class Circle(string name, double radius) : Shape(name){
         public double Radius {get; set;} = radius;
 
+        // Overridden method from abstract / parent class
         public override double CalculateArea(){
             return Math.PI * Radius * Radius;
         }
