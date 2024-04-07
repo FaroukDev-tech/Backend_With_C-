@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task_2-Creating_A_Library_Catalog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b34c11bd1fb016870ee3613c0761b9afa452fb1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d97f18b67185d69649a5840aefd110260ab233c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task_2-Creating_A_Library_Catalog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task_2-Creating_A_Library_Catalog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

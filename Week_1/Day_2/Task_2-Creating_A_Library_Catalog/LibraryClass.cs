@@ -42,5 +42,29 @@ namespace library_component{
             }
             Console.WriteLine();
         }
+
+        public List<Book> SearchBook(string search_term){
+            List<Book> res = [];
+
+            foreach(Book book in Books){
+                if (book.Title==search_term || book.Author==search_term || book.ISBN==search_term){
+                    res.Add(book);
+                }
+            }
+
+            return res;
+        }
+
+        public List<MediaItem> SearchMedia(string search_term){
+            List<MediaItem> res = [];
+
+            foreach(MediaItem item in MediaItems){
+                if (item.Title==search_term || item.MediaType==search_term){
+                    res.Add(item);
+                }
+            }
+
+            return res;
+        }
     }
 }
