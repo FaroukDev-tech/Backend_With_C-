@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\bin\Debug\net8.0\Task_2-Creating_A_Library_Catalog.exe
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\bin\Debug\net8.0\Task_2-Creating_A_Library_Catalog.deps.json
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\bin\Debug\net8.0\Task_2-Creating_A_Library_Catalog.runtimeconfig.json
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\bin\Debug\net8.0\Task_2-Creating_A_Library_Catalog.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\bin\Debug\net8.0\Task_2-Creating_A_Library_Catalog.pdb
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\obj\Debug\net8.0\Task_2-Creating_A_Library_Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\obj\Debug\net8.0\Task_2-Creating_A_Library_Catalog.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\obj\Debug\net8.0\Task_2-Creating_A_Library_Catalog.AssemblyInfo.cs
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\obj\Debug\net8.0\Task_2-Creating_A_Library_Catalog.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\obj\Debug\net8.0\Task_2-Creating_A_Library_Catalog.sourcelink.json
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\obj\Debug\net8.0\Task_2-Creating_A_Library_Catalog.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\obj\Debug\net8.0\refint\Task_2-Creating_A_Library_Catalog.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\obj\Debug\net8.0\Task_2-Creating_A_Library_Catalog.pdb
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\obj\Debug\net8.0\Task_2-Creating_A_Library_Catalog.genruntimeconfig.cache
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_2-Creating_A_Library_Catalog\obj\Debug\net8.0\ref\Task_2-Creating_A_Library_Catalog.dll
