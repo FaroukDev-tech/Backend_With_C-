@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\bin\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.exe
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\bin\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.deps.json
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\bin\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.runtimeconfig.json
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\bin\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\bin\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.pdb
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\obj\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\obj\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\obj\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.AssemblyInfo.cs
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\obj\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\obj\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.sourcelink.json
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\obj\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\obj\Debug\net8.0\refint\Task_1-Building_A_Shape_Hierarchy.dll
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\obj\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.pdb
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\obj\Debug\net8.0\Task_1-Building_A_Shape_Hierarchy.genruntimeconfig.cache
+C:\Users\user\Desktop\A2SV\Backend_With_C#\Week_1\Day_2\Task_1-Building_A_Shape_Hierarchy\obj\Debug\net8.0\ref\Task_1-Building_A_Shape_Hierarchy.dll
