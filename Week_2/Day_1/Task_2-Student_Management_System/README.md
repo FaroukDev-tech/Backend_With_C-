@@ -1,5 +1,7 @@
 # Student List Management System
 
+![demo](./demo.PNG)
+
 This project implements a generic class `StudentList<T>` for managing a collection of `Student` objects. The `StudentList<T>` class provides functionality to add, search, update, delete, display, serialize, and deserialize student data. This README provides an overview of the class structure and usage instructions.
 
 ## Project Structure
