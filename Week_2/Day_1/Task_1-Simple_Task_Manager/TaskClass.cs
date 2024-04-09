@@ -2,11 +2,11 @@ using System;
 
 namespace task_component{
     public enum TaskCategory{
-        Personal,
-        Work,
-        Meetings,
-        Gym,
-        Learning
+        personal,
+        work,
+        meetings,
+        gym,
+        learning
     }
     public class Tasks{
         public required string? Name {get; set;}
